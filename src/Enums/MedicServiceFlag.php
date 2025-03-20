@@ -1,8 +1,9 @@
 <?php
 
-namespace Gii\ModuleMedicService\Enums;
+namespace Hanafalah\ModuleMedicService\Enums;
 
-enum MedicServiceFlag: string{
+enum MedicServiceFlag: string
+{
     case OUTPATIENT      = 'OUTPATIENT';
     case MCU             = 'MCU';
     case INPATIENT       = 'INPATIENT';

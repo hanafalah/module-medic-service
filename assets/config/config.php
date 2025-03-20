@@ -1,6 +1,6 @@
 <?php
 
-use Gii\ModuleMedicService\Models as ModuleMedicService;
+use Hanafalah\ModuleMedicService\Models as ModuleMedicService;
 
 return [
     'database' => [

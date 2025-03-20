@@ -1,9 +1,7 @@
 <?php
 
-namespace Gii\ModuleMedicService\Contracts;
+namespace Hanafalah\ModuleMedicService\Contracts;
 
-use Gii\ModuleService\Contracts\ModuleService;
+use Hanafalah\ModuleService\Contracts\ModuleService;
 
-interface ModuleMedicService extends ModuleService{
-
-}
+interface ModuleMedicService extends ModuleService {}
